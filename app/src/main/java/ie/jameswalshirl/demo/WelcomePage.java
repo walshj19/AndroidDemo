@@ -1,9 +1,9 @@
 package ie.jameswalshirl.demo;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 
-public class WelcomePage extends AppCompatActivity {
+public class WelcomePage extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
