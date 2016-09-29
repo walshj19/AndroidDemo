@@ -2,7 +2,6 @@ package ie.jameswalshirl.demo;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.View;
@@ -10,7 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class WelcomePage extends AppCompatActivity implements View.OnClickListener{
+public class WelcomePage extends Activity implements View.OnClickListener{
     View button1, button2;
     TextView label;
     EditText textBox;
