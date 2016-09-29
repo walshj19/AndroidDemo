@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Demo</string>
+    <string name="welcome_page_text">Different Text</string>
+    <string name="click_me">Click Me!</string>
+    <string name="click_me_too">Click Me Too</string>
+    <string name="type_something_here">Type something here</string>
 </resources>
