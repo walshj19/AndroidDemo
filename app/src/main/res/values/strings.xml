@@ -4,4 +4,20 @@
     <string name="click_me">Click Me!</string>
     <string name="click_me_too">Click Me Too</string>
     <string name="type_something_here">Type something here</string>
+    <string name="name">Name:</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="title_activity_lab_list">LabList</string>
+    <string-array name="list_items">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
 </resources>
